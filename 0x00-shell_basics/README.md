@@ -9,3 +9,4 @@ Script 7 shows how to move a file.
 Script 8 shows how to delete a file.
 Script 9 shows how to delete a directory.
 Script 10 shows how to change directory to previous one.
+Script 11 shows list of all files in curret,parrent and /boot dir in order.
