@@ -6,3 +6,4 @@ Script 4 shows how to display current directory contents, including hidden files
 Script 5 shows how to lit contents of a dir in detail and in digit.
 Script 6 shows how to create a directory.
 Script 7 shows how to move a file.
+Script 8 shows how to delete a file.
