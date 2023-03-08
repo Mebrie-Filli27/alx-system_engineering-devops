@@ -16,3 +16,4 @@ Script 14 shows how to copy all same files to parent with out getting repeated.
 Script 15 shows how to move files which start with upper case.
 Script 16 shows how to delete all files end with ~
 Script 17 shows how to create multiple directories in same path at same time.
+Scriot 18 shows how to list directories and files separated by comma.
